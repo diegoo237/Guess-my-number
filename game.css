@@ -26,7 +26,16 @@ header {
   grid-row: 1 / 2;
   cursor: pointer;
 }
+<<<<<<< HEAD
 
+=======
+.btn:hover {
+  transition: all, 0.1s;
+  height: 62px;
+  width: 185px;
+  background-color: #c5c1c1;
+}
+>>>>>>> ffcee88 (First commit guess my number game)
 .title {
   display: flex;
   color: #eee;
